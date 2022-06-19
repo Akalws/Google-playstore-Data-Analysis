@@ -1,1 +1,24 @@
-# Google-playstore-Data-Analysis
+# Overview
+
+This is a simple data analysis on googleplaystore app ratings. It answers three intresting questions. Which app category has the highest price? Which app Category has the highest reviews and lastly which app category has the highest ratings. The data visualization was done by using matplotlib and seaborn.
+[Software Demo Video](http://youtube.link.goes.here)
+
+# Data Analysis Results
+
+{Which app category has the highest price?
+Which app Category has the highest reviews?
+Which app category has the highest ratings?.}
+
+# Development Environment
+
+Jupyter Notebook
+Python Pandas
+Python Nampy 
+
+# Useful Websites
+Tutorial on python pandas on youtube
+
+# Future Work
+
+I want to use Tableau to visualize the data in future.
+I also want to know why the gaming app although less costly but received less ratings.
